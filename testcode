@@ -1,8 +1,4 @@
-Import java.io.*;
-import java.lang;
+#!/bin/python3
 
-class Simple{  
-    public static void main(String args[]){  
-     System.out.println("Hello Java");  
-    }  
-}  
+print("Hello, World!")
+
