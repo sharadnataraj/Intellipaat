@@ -1,2 +1,0 @@
-# Intellipaat
-Test project
